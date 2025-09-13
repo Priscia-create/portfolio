@@ -1,7 +1,7 @@
 body {
   margin: 0;
   font-family: Arial, sans-serif;
-  background: url("C:\Users\mouan\Downloads\portfolio\randimg2.png") no-repeat center center fixed;
+  background: rgba(224, 162, 74, 0.9) no-repeat center center fixed;
   background-size: cover;
   color: #333;
 }
@@ -23,7 +23,7 @@ header {
 }
 
 section {
-  background: rgba(255, 255, 255, 0.9);
+  background: rgba(224, 162, 74, 0.9);
   margin: 20px auto;
   padding: 20px;
   max-width: 900px;
